@@ -3,7 +3,7 @@ package Design;
 public class App {
 	
 	public static void main(String[] args) {
-		
+		//hi
 		System.out.println("Hashcode Design");
 		
 		Employee emp1 = new Employee(100, "ABC");
