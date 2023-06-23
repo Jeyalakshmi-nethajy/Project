@@ -6,8 +6,8 @@ public class App {
 		
 		System.out.println("Design");
 		
-		Employee emp1 = new Employee(100, "Jei");
-		Employee emp2 = new Employee(100, "Jei");
+		Employee emp1 = new Employee(100, "ABC");
+		Employee emp2 = new Employee(100, "ABC");
 		
 		System.out.println(emp1.equals(emp2));
 		System.out.println(emp1.hashCode());
